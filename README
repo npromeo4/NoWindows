@@ -1,0 +1,11 @@
+This repo should have the following:
+
+NAPALM
+Nornir
+napalm-ansible
+GenieParser
+Cisco ConfParse
+PyATS
+ncclient
+Netmiko
+libssh
